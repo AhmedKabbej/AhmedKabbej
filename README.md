@@ -12,14 +12,14 @@ I design and build interactive experiences blending **front-end development**, *
 
 ### Front-End Development  
 `HTML5` · `CSS3` / `TailwindCSS` · `JavaScript` · `TypeScript` · `React` · `GSAP`  
-`Node.js` · `Vite` · `NPM`
+`Node.js` · `Vite` · `NPM` · `Docker` · `Wordpress`
 
 ### Creative Tech & WebGL  
 `Three.js` · `WebGL` · `GLSL` · `Shaders`  
 `TouchDesigner` · `Blender` · `3D pipelines`
 
 ### Design & Prototyping  
-`Figma` · `Adobe Suite` (Photoshop, Illustrator, After Effects, XD)  
+`Figma` · `Adobe Suite` (Photoshop, Illustrator, Indesign, Dimension)  
 Video Mapping · Motion Design · UI/UX
 
 ### Audio & Sound  
