@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Header.JPEG" alt="Ahmed Kabbej banner" width="100%" />
+</p>
+
 # ✦ Ahmed Kabbej  
 
 ✺ **Creative Technologist** · ✺ **Creative Developer** · ✺ **UI/UX Designer**  
