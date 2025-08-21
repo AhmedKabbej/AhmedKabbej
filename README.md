@@ -8,7 +8,7 @@
 Crafting immersive digital experiences at the intersection of design, sound, animation, and code.  
 🎓 Currently studying at **Gobelins, l'École de l'Image** — graduating in **June 2026**
 
-I design and build interactive experiences blending **front-end development**, **creative coding**, **WebGL**, and **immersive interfaces**.
+I design and build interactive experiences blending **front-end development**, **creative coding**, and **immersive interfaces**.
 
 ---
 
