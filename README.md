@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header.jpg" alt="Ahmed Kabbej banner" width="100%" />
+  <img src="Header.gif" alt="Ahmed Kabbej banner" width="100%" />
 </p>
 
 # ✦ Ahmed Kabbej  
